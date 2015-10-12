@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Planetas</string>
+    <string name="planet_name_mercury">Mercúrio</string>
+    <string name="discovery_default">Conhecido pelos ancestrais e visível à olho nú</string>
+    <string name="named_for_mercury">Messageiro dos deuses romanos</string>
+    <string name="planet_name_venus">Vênus</string>
+    <string name="named_for_venus">Deusa romana do amor e beleza</string>
+    <string name="planet_name_earth">Terra</string>
+    <string name="named_for_earth">num xei</string>
+    <string name="planet_name_mars">Marte</string>
+    <string name="named_for_mars">Deus romano da guerra</string>
+    <string name="planet_name_jupiter">Júpiter</string>
+    <string name="named_for_jupiter">Soberano dos deuses romanos</string>
+    <string name="planet_name_saturn">Saturno</string>
+    <string name="named_for_saturn">Deus romano da agricultura</string>
+    <string name="planet_name_uranus">Urano</string>
+    <string name="discovery_uranus">1781 por William Herschel (achavam que era uma estrela)</string>
+    <string name="named_for_uranus">Personificação do paraíso em mitologias ancestrais</string>
+    <string name="planet_name_neptune">Netuno</string>
+    <string name="discovery_neptune">1846</string>
+    <string name="named_for_neptune">Deus romano da água</string>
+    <string name="planet_name_pluto">Plutão</string>
+    <string name="discovery_pluto">1930 por Clyde Tombaugh</string>
+    <string name="named_for_pluto">Deus romano dos mortos</string>
+</resources>

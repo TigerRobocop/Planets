@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <string name="planet_name_mercury">Mercury</string>
+    <string name="discovery_default">Known to the ancients and visible to the naked eye</string>
+    <string name="named_for_mercury">Messenger of the Roman gods</string>
+    <string name="planet_name_venus">Venus</string>
+    <string name="named_for_venus">Roman godess of love and beauty</string>
+    <string name="planet_name_earth">Earth</string>
+    <string name="named_for_earth">i dunno</string>
+    <string name="planet_name_mars">Mars</string>
+    <string name="named_for_mars">Roman god of war</string>
+    <string name="planet_name_jupiter">Jupiter</string>
+    <string name="named_for_jupiter">Ruler of the Roman gods</string>
+    <string name="planet_name_saturn">Saturn</string>
+    <string name="named_for_saturn">Roman god of agriculture</string>
+    <string name="planet_name_uranus">Uranus</string>
+    <string name="discovery_uranus">1781 by William Herschel (was thought previously to be a star)</string>
+    <string name="named_for_uranus">Personification of heaven in ancient myth</string>
+    <string name="planet_name_neptune">Neptune</string>
+    <string name="discovery_neptune">1846</string>
+    <string name="named_for_neptune">Roman god of water</string>
+    <string name="planet_name_pluto">Pluto</string>
+    <string name="discovery_pluto">1930 by Clyde Tombaugh</string>
+    <string name="named_for_pluto">Roman god of the underworld, Hades</string>
+    <string name="hint_search">Planet lookup</string>
+</resources>
